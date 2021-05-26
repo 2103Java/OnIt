@@ -45,33 +45,84 @@ OnIt can be accessed through the following link:
 
 ## Usage
 
+
 When you use the above link, you will be greeted with the sign-in page:
+  
   
 ![image](https://user-images.githubusercontent.com/47725693/119705691-ab780d00-be1e-11eb-87f8-41f8438d613e.png)
 
 
 
 
+### Register
+  
 Click 'Please register here!' to be taken to the Registration page:
 
+  
 ![image](https://user-images.githubusercontent.com/47725693/119705748-bdf24680-be1e-11eb-8229-a2d1755e4d6f.png)
 
 
+  
+  
 
 Enter your first and last name, and a desired email and password:
 
+  
 ![image](https://user-images.githubusercontent.com/47725693/119705864-e24e2300-be1e-11eb-9c77-0d41581bcdb8.png)
 
+  
+  
 Click 'Register' to complete registration.
 
+### Sign in and Task Creation
 Back on the OnIt Home page, login with your username and password.
 
 After signing in with this fresh account, you will see your home page, which will display a grid layout of all your to-do list items:
   
+  
 ![image](https://user-images.githubusercontent.com/47725693/119706042-16294880-be1f-11eb-9a0f-236f474e5af7.png)
 
 
+ Now you can start adding tasks. Click "Create Task" to create your first task and you'll see this:
+  
+  
+ ![image](https://user-images.githubusercontent.com/47725693/119707076-5dfc9f80-be20-11eb-9a54-92abf6ebf80d.png)
 
+  
+  
+Fill in "Task name", "Task description", "Due Date", "Label", and optionally, add a location via Google Maps, mark it as repeatable, and send an email reminder a day before it's due:
+  
+![image](https://user-images.githubusercontent.com/47725693/119707306-a1efa480-be20-11eb-882d-b870b234530a.png)
+
+  
+![image](https://user-images.githubusercontent.com/47725693/119707348-ac11a300-be20-11eb-98d5-3211b0ea481d.png)
+  
+
+Going back to your task home page, now you'll see the newly created task:
+  
+![image](https://user-images.githubusercontent.com/47725693/119707518-db281480-be20-11eb-9294-142eab88fbfb.png)
+
+You can hit done when that task is complete and the list will update:
+  
+![image](https://user-images.githubusercontent.com/47725693/119707615-f72bb600-be20-11eb-8f2d-742a2bbb8f82.png)
+
+  
+  
+#### Viewing your Task Stats
+ 
+Click "Task Stats" on the top bar and you will be brought to a page displaying a graph of the number of tasks completed over the past n days, where you specify the value of n via a dropdown menu. Here is a sample for a user different from the one above:
+  
+![image](https://user-images.githubusercontent.com/47725693/119707885-483baa00-be21-11eb-88f4-56d078c85f67.png)
+
+  
+On this same page, you can also download all your to-do list items to a file.
+  
+  
+### Viewing your account information
+
+Finally, you can view your account information (currently not editable), and delete your account by clicking "Account Management":
+  
+![image](https://user-images.githubusercontent.com/47725693/119708070-80db8380-be21-11eb-8838-cbe5cf299c5f.png)
 
 
 
