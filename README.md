@@ -8,9 +8,11 @@ With OnIt, a user can create a highly customizable, visually pleasing to-do list
 * Angular
 * HTML
 * CSS
-* Typescript
 * Angular Material
 * Bootstrap
+* Google Maps
+* CanvasJS
+* Typescript
 * Java
 * Spring (Core, MVC).
 * Hibernate.
