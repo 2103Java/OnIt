@@ -130,5 +130,5 @@ Finally, you can view your account information (currently not editable), and del
 
 
 ## Contributors
-Benjamin Markos, Hassah Shallal, James Suspenders McGee, Kent Berry, Jacob Erdman
+Benjamin Markos (Team lead), Hassah Shallal (Scrum master), James Sasser, Kent Berry, Jacob Erdman
    
