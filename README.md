@@ -67,13 +67,7 @@ Click 'Please register here!' to be taken to the Registration page:
   
   
 
-Enter your first and last name, and a desired email and password:
-
-  
-![image](https://user-images.githubusercontent.com/47725693/119705864-e24e2300-be1e-11eb-9c77-0d41581bcdb8.png)
-
-  
-  
+Enter your first and last name, and a desired email and password.
 Click 'Register' to complete registration.
 
 ### Sign in and Task Creation
