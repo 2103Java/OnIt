@@ -73,7 +73,7 @@ Click 'Register' to complete registration.
 ### Sign in and Task Creation
 Back on the OnIt Home page, login with your username and password.
 
-After signing in with this fresh account, you will see your home page, which will display a grid layout of all your to-do list items:
+After signing in with this fresh account, you will see your home page, which will later be used to display a grid layout of all your to-do list items:
   
   
 ![image](https://user-images.githubusercontent.com/47725693/119706042-16294880-be1f-11eb-9a0f-236f474e5af7.png)
